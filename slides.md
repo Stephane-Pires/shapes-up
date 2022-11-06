@@ -56,8 +56,6 @@ layout: punch
 src: ./slides/shaping-gif.md
 ---
 
-
-
 ---
 layout: center
 src: ./slides/shaping.md
@@ -82,7 +80,7 @@ src: ./slides/building-gif.md
 layout: center
 src: ./slides/building.md
 ---
-<!-- 
+
 ---
 layout: center
 src: ./slides/hills/hill-1.md
@@ -111,14 +109,13 @@ src: ./slides/hills/hill-5.md
 ---
 layout: center
 src: ./slides/hills/hill-6.md
---- -->
+---
 
 ---
 layout: section
 src: ./slides/sections/1.md
 number: 1
 ---
-
 
 ---
 layout: two-cols-header
