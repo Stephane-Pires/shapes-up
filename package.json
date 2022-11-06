@@ -10,7 +10,7 @@
     "slidev": ">=0.19.3"
   },
   "scripts": {
-    "build": "slidev build --base /ventus-sandbox/",
+    "build": "slidev build --base /shapes-up/",
     "dev": "slidev slides.md --open",
     "export": "slidev export slides.md",
     "screenshot": "slidev export slides.md --format png"

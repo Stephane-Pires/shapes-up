@@ -82,7 +82,7 @@ src: ./slides/building-gif.md
 layout: center
 src: ./slides/building.md
 ---
-
+<!-- 
 ---
 layout: center
 src: ./slides/hills/hill-1.md
@@ -111,9 +111,7 @@ src: ./slides/hills/hill-5.md
 ---
 layout: center
 src: ./slides/hills/hill-6.md
----
-
-
+--- -->
 
 ---
 layout: section
