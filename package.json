@@ -1,0 +1,44 @@
+{
+  "name": "Shape-up",
+  "version": "0.0.0",
+  "keywords": [
+    "slidev-theme",
+    "slidev"
+  ],
+  "engines": {
+    "node": ">=14.0.0",
+    "slidev": ">=0.19.3"
+  },
+  "scripts": {
+    "build": "slidev build --base /ventus-sandbox/",
+    "dev": "slidev slides.md --open",
+    "export": "slidev export slides.md",
+    "screenshot": "slidev export slides.md --format png"
+  },
+  "dependencies": {
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/types": "^0.36.10",
+    "codemirror-theme-vars": "^0.1.1",
+    "prism-theme-vars": "^0.2.3",
+    "theme-vitesse": "^0.4.10",
+    "vite-svg-loader": "^3.4.0"
+  },
+  "devDependencies": {
+    "@iconify-json/wi": "^1.1.2",
+    "@slidev/cli": "^0.36.10",
+    "@types/node": "^18.0.0",
+    "playwright-chromium": "^1.25.1"
+  },
+  "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
+  "slidev": {
+    "colorSchema": "both",
+    "highlighter": "all",
+    "defaults": {
+      "fonts": {
+        "sans": "Nunito Sans",
+        "mono": "Fira Code"
+      },
+      "hightlighter": "prism"
+    }
+  }
+}
