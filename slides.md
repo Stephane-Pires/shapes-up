@@ -2,6 +2,8 @@
 theme: ./
 title: 'Shape Up'
 presenterName: "Stéphane Pires"
+presentationEnd: 1800
+presentationEndMessage: 'Should not exceed the timer : '
 dateFormat: "fr"
 lineNumbers: true
 monaco: true

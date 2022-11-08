@@ -40,5 +40,8 @@
       },
       "hightlighter": "prism"
     }
+  },
+  "volta": {
+    "node": "19.0.1"
   }
 }
