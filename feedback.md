@@ -8,3 +8,6 @@
 - Think about the specific need of the corporation
 - Take a deep breath (slow speed)
 - Invest time on better example 
+- Does it solve a corporate problem ?
+- + / - compared to actual state of the corporation
+- what can we extract and incorporation inside our process ? 
